@@ -1,4 +1,4 @@
-const accessKey = 'C-ABtDrd4hHt_PHt9XA1e1gbv80C7zfqO8Ugoul0850';
+const accessKey = 'Enter API of Unsplash.';
 
 const searchForm = document.getElementById('search-form');
 const searchBox = document.getElementById('search-box');
